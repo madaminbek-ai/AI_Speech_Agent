@@ -1,0 +1,4 @@
+-r requirements.txt
+av>=18,<19
+faster-whisper>=1.2,<2
+pyannote.audio>=4,<5
